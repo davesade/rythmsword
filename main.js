@@ -7,7 +7,7 @@ heroes = [];
 
 function preload() {
     //img = loadImage('./img/fighter.png');
-    bossImg = loadImage('https://i.nahraj.to/f/1US5.png');
+    bossImg = loadImage('./img/boss.png');
 
 }
 
