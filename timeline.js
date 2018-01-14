@@ -8,7 +8,7 @@ function Timeline(speed) {
     };
 
     this.move = function() {
-        this.x = this.x + this.speed;
+        this.x += this.speed;
     };
 
     this.goBack = function() {
